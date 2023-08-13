@@ -7,7 +7,7 @@ export default function LogoMobile(): JSX.Element {
 			alt="Logo"
 			width="56"
 			height="56"
-			className="w-14 h-14 object-cover"
+			className="w-14 h-14 object-cover rounded-full"
 		/>
 	);
 }

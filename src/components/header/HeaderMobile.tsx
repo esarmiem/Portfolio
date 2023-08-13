@@ -38,7 +38,7 @@ export default function HeaderMobile(): JSX.Element {
 				/>
 				<MobileNavItem
 					setIsActive={setIsActive}
-					navText="Recomendaciones"
+					navText="Experiencia"
 					path="/#recomendaciones"
 				/>
 				<MobileNavItem

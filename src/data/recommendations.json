@@ -1,60 +1,46 @@
 {
 	"recommendations": [
 		{
-			"image": "https://media.licdn.com/dms/image/D4D03AQEbZgGRfsY78Q/profile-displayphoto-shrink_100_100/0/1686960918878?e=1693440000&v=beta&t=muSLlonKS-_IjwTwwJ31gs57t9pk7cfp3_uNSort8t4",
-			"name": "Luis Gonzalez",
-			"date": "2 de agosto de 2022",
-			"title": "Desarrollador Front-end | Tutor HTML CSS JS React",
-			"message": "Diego es toda una promesa, fue mi alumno en el curso de JavaScript de Coderhouse y la verdad que siempre estuvo muy por encima de la media. Su proyecto final fue de los mejores proyectos de su comisión y me impresiono mucho su dedicación y enfoque en los detalles. \n\nSuele pasar que los alumnos toman las correcciones y las recomendaciones como criticas, pero Diego siempre las tomo como oportunidades de mejorar su código y su proyecto, sin duda una cualidad muy importante para un desarrollador."
+			"image": "/company/comware.webp",
+			"name": "Analista Vertical Nivel I",
+			"date": "ene. 2023 - actualidad · 8 meses",
+			"title": "ComWare S.A",
+			"message": "Aptitudes: SIP Trunking · Híbrido de fibra coaxial · Voz sobre IP (VoIP) · Enrutadores · LAN-WAN · Redes MPLS · Redes de fibra óptica · Routers de Cisco."
 		},
 		{
-			"image": "https://media.licdn.com/dms/image/C5603AQFNKfSDyNHviw/profile-displayphoto-shrink_100_100/0/1628112026817?e=1693440000&v=beta&t=LQIIXOD0f7QhdcSxOE2MVTELTxkfEPqwRciBaPsbdnQ",
-			"name": "DAVID ANDRES TURIZO NAVARRO",
-			"date": "20 de mayo de 2022",
-			"title": "Junior FrontEnd Developer / UX Designer in Training",
-			"message": "Recomiendo totalmente a Diego Alessandro por su excelente trabajo, tuve la oportunidad de trabajar con el y puedo asegurar que es una persona profesional, conoce muy bien las tecnologías que utiliza, puede realizar todas sus tareas sin problemas. Ademas es colaborador y apoyo al equipo, buscando soluciones y compartiendo su experiencia.\nExcelente Trabajo!"
+			"image": "/company/emtelco.webp",
+			"name": "Analista de soporte Nivel 2",
+			"date": "2mar. 2021 - dic. 2022 · 1 año 10 meses",
+			"title": "Emtelco",
+			"message": "Aptitudes: Híbrido de fibra coaxial · Voz sobre IP (VoIP) · Red de cobre · LAN-WAN · Redes de fibra óptica · Routers de Cisco."
 		},
 		{
-			"image": "https://media.licdn.com/dms/image/C4D03AQEdABEcb6fdcw/profile-displayphoto-shrink_100_100/0/1652212003742?e=1693440000&v=beta&t=6NqDEioNvWa50u5Q7qhLKIgvIFxq8NbSWZpfN89OKQw",
-			"name": "Irwing Naranjo",
-			"date": "17 de mayo de 2022",
-			"title": "Full Stack & Mobile Dev, I ❤️ Javascript | REACT / Node.js / PHP",
-			"message": "Excelente desarrollador, centrado en el cumplimiento de los objetivos, pro-activo y con alta capacidad para ejecutar sus funciones con poca o ninguna supervisión, es muy agradable trabajar con él. Inspiró mucho al equipo y le dio un toque de conocimiento frescos."
+			"image": "/company/smso.webp",
+			"name": "Técnico de soporte",
+			"date": "oct. 2019 - oct. 2020 · 1 año 1 mes",
+			"title": "Servicios especiales SMSO",
+			"message": "Aptitudes: Cámaras IP · Tecnología de Cisco · LAN-WAN."
 		},
 		{
-			"image": "https://media.licdn.com/dms/image/C4D03AQHxQT67FzBi-w/profile-displayphoto-shrink_100_100/0/1660398624997?e=1693440000&v=beta&t=0-4QSP3BMCgcsED1KepExqteGTtO7VpxK0fcJkQZteU",
-			"name": "Maia Balagur",
-			"date": "14 de mayo de 2022",
-			"title": "Customer Experience | CX | Comercial | Scrum Master | Product Owner I Metodologías ágiles I Project Manager | Gestión de proyectos",
-			"message": "Alessandro fue parte de mi equipo.\nNos juntamos para crear un proyecto ideado por IDFORIDEAS donde creamos una página web bancaria segmentada para personas mayores.\nAle ingreso a días de finalizar el proyecto y fue increíble como pudo utilizar sus herramientas y conocimiento, se unió al equipo muy rápido e hizo unas propuestas de valor muy grandes. Supo solucionar todos los impedimentos que nos surgieron incluso los que estaban antes de su ingreso, también pedir sabía solicitar ayuda cuando era necesario.\nEstoy feliz de haber podido compartir con él tan linda experiencia. Además de TODO su conocimiento, es un excelente ser humano. Trabajo en colaboración con sus compañeros en todo momento y los ayudó con mucha humildad.\nQuien contrate a Ale va a sorprenderse, por su compromiso, predisposición, adaptabilidad y calidad humana. Muy detallista y con una gran escucha activa. Siempre abierto a recibir feedback y brindarlo con mucho respeto.\nGracias Ale, estoy muy orgullosa de haber trabajado con vos."
+			"image": "/company/liteyca.webp",
+			"name": "Técnico de telecomunicaciones",
+			"date": "feb. 2016 - jun. 2018 · 2 años 5 meses",
+			"title": "Liteyca Telecomunicaciones",
+			"message": "Aptitudes: Red óptica pasiva con capacidad de gigabit · Redes de fibra óptica."
 		},
 		{
-			"image": "https://media.licdn.com/dms/image/C4E03AQENV2MpeMxecQ/profile-displayphoto-shrink_100_100/0/1642885661435?e=1693440000&v=beta&t=mMO6iqzFRAqe8KwIq63BPnYr4QWILdJg4e0_n18ZP-c",
-			"name": "Ana Clara Ortiz",
-			"date": "25 de enero de 2022",
-			"title": "Community Manager",
-			"message": "Alessandro ha sido mi compañero en la cursada de desarrollo front-end y puedo decir que es una excelente persona, muy profesional, prolijo y sobre todo muy predispuesto a ayudar. Además de su buena predisposición posee mucho conocimiento sobre desarrollo y IT."
+			"image": "/company/fscr.webp",
+			"name": "Técnico de telecomunicaciones",
+			"date": "jun. 2015 - feb. 2016 · 9 meses",
+			"title": "FSCR INGENIERIA SAS",
+			"message": "Aptitudes: Red de cobre · Redes de fibra óptica."
 		},
 		{
-			"image": "https://media.licdn.com/dms/image/D4D03AQGTrHHO7O0BVA/profile-displayphoto-shrink_100_100/0/1663090968039?e=1693440000&v=beta&t=YHR9KNGjKfrjMreF57gSyTFkDZGlGku80bSQphIteiw",
-			"name": "José Carrizo",
-			"date": "13 de diciembre de 2021",
-			"title": "Systems Engineer | FullStack MERN-MEAN Developer | Tutor Diseño Web en Coderhouse | Owner iJac IT Solutions | UX UI Designer",
-			"message": "Alessandro ha sido un recurso valioso en nuestro trabajo en equipo, no solo por su condición profesional, sino también por sus cualidades humanas. Siempre predispuesto a ayudar a quien fuera, no escatima en ahorrar su esfuerzo y tiempo en pos de aportar su valioso punto de vista en las resoluciones de incidencias o dudas. Tiene un potencial enorme (teniendo en cuenta su corta edad)."
-		},
-		{
-			"image": "https://media.licdn.com/dms/image/D4D03AQEysCbSZ8LD4w/profile-displayphoto-shrink_100_100/0/1672763676776?e=1693440000&v=beta&t=YozRCT7Z3NZ1nVMnNtlmdIK89aKPTqympkX6Uv4yaS8",
-			"name": "Luz Squarzon",
-			"date": "El 27 de septiembre de 2021",
-			"title": "Senior Engineer QA",
-			"message": "Diego supo entender la de idea de mí proyecto web. Me ha asesorado y se involucró en cada etapa hasta el envío a producción. \nEs empático y resulta que Ale es una parte muy valiosa para los proyectos en equipo."
-		},
-		{
-			"image": "https://media.licdn.com/dms/image/C4E03AQFHp8KYUo1WRQ/profile-displayphoto-shrink_100_100/0/1617712075627?e=1693440000&v=beta&t=QE2LM7CoUTfybtr1-5txqVVU5QcGVNe-227m9oDlpXw",
-			"name": "Christian Fernandez Juncal",
-			"date": "20 de septiembre de 2021",
-			"title": "Front End Dev & Digital Designer / Tutor en Coderhouse",
-			"message": "Diego se destaca por su búsqueda constante de aprendizaje, facilidad de resolución y adaptación a la incesante evolución educativa que implica estar en el mundo IT. A su vez una de sus principales cualidades es el compañerismo y respeto hacia sus pares a la hora de poder colaborar con las herramientas adquiridas. Ha sido un placer acompañarlo en la cursada de Desarrollo Web en CoderHouse y estoy seguro que va a llegar muy lejos en este camino. Ojalá nos volvamos a cruzar Diego!"
+			"image": "/company/comsat.webp",
+			"name": "Técnico de telecomunicaciones",
+			"date": "oct. 2014 - abr. 2015 · 7 meses",
+			"title": "Comsat",
+			"message": "Aptitudes: Sistemas satelitales."
 		}
 	]
 }

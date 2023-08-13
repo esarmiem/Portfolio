@@ -18,7 +18,7 @@ const { name, description, url, src, isVideo } = Astro.props as Project;
 			target="_blank"
 			rel="noreferrer"
 			href={url}
-			class="font-bold text-xl hover:text-blue-600 transition-all duration-200 flex items-end gap-2 w-max"
+			class="px-8 py-2 font-bold text-lg rounded-full text-customWhite bg-blue-600 hover:bg-blue-800 transition-all duration-200 flex items-end gap-2 w-max"
 		>
 			{
 				url?.replace("https://", "").length > 20

@@ -67,7 +67,7 @@ export default function RecommendationsCarousel() {
 									</h4>
 								</header>
 
-								<section class="w-full mr-12 h-44 overflow-hidden hover:overflow-auto">
+								<section class="w-full mr-12 h-36 overflow-hidden hover:overflow-auto">
 									<p className="max-w-[80vw] sm:w-5/6 h-full text-base text-gray-500 whitespace-pre-wrap select-none">
 										{recommendation.message}
 									</p>

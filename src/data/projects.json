@@ -4,9 +4,9 @@
 		"description": "Web alternativa a Linktree que te permite colocar todos tus enlaces de interés en un solo lugar, desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'> Svelte, Tailwind y Vite</strong> <br/> <br/> Ahora puedes compartir tus redes sociales, sitios web, repositorios de GitHub y otros enlaces importantes en una página personalizada. ",
 		"url": "https://esarmiem-links.com/",
 		"src": [
-			"/images/skillswap/skillswap.webp",
-			"/images/skillswap/skillswap-projects.webp",
-			"/images/skillswap/skillswap-login.webp"
+			"/images/Linktree/linktree2.webp",
+			"/images/Linktree/linktree1.webp",
+			"/images/Linktree/linktree3.webp"
 		]
 	},
 	{
@@ -14,9 +14,9 @@
 		"description": "Aplicación nativa de <strong class='dark:text-customWhite text-customBlack font-bold'>Android</strong> que muestra una lista de mensajes compuestos por imágenes y texto. Los mensajes se presentan en una columna que se puede expandir o contraer al hacer clic en ella utilizando la gestión de estado, la aplicación fue desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'>Kotlin y Jepack Compose</strong>. <br/> <br/> Ofrece una característica fascinante para los entusiastas de Spider-Man: una extensa base de datos que muestra información sobre cada Spider-Man dentro del <strong class='dark:text-customWhite text-customBlack font-bold'>Spider-Verse</strong>.",
 		"url": "https://github.com/esarmiem/Spiderverse-Message-List-App",
 		"src": [
-			"/images/drcafe/DRCAFE.webp",
-			"/images/drcafe/drcafe-products.webp",
-			"/images/drcafe/drcafe-order.webp"
+			"/images/Spiderverse/spiderverse1.webp",
+			"/images/Spiderverse/spiderverse2.webp",
+			"/images/Spiderverse/spiderverse3.webp"
 		]
 	},
 	{
@@ -24,9 +24,9 @@
 		"description": "Clon de la página principal de Tesla, la innovadora compañía líder en vehículos eléctricos y energía sostenible. <br/> <br/> Desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'>Astro, Tailwind y JavaScript</strong>. Casi logrando en la web la técnica de pixel perfect.",
 		"url": "https://tesla-esarmiem.netlify.app/",
 		"src": [
-			"/images/allex/allexLogin.webp",
-			"/images/allex/home_allexpenses.webp",
-			"/images/allex/balance.webp"
+			"/images/Tesla/tesla1.webp",
+			"/images/Tesla/tesla2.webp",
+			"/images/Tesla/tesla3.webp"
 		]
 	},
 	{
@@ -34,9 +34,9 @@
 		"description": "Es un proyecto web integral diseñado para optimizar y agilizar procesos clave en entornos empresariales, consta de cuatro módulos esenciales que abordan diversas necesidades operativas. <br/> <br/>  El primer módulo permite la generación de códigos de verificación de números NIT de empresas, el segundo módulo facilita la creación de plantillas de diagnóstico para sistemas CRM. <br/> <br/> El tercer módulo ofrece un generador de plantillas para tiquetes técnicos y el cuarto módulo integra herramientas web esenciales, como validadores de nombres para direcciones MAC y verificación de direcciones IP en listas negras. <br/> <br/> El proyecto fue desarrollado con <strong class='dark:text-customWhite text-customBlack font-bold'>HTML/CSS y Javascript.</strong>.",
 		"url": "https://x-men-comware.netlify.app/",
 		"src": [
-			"/images/lcdp/lcdp-home.webp",
-			"/images/lcdp/lcdp-products.webp",
-			"/images/lcdp/lcdp-services.webp"
+			"/images/Comware/comware1.webp",
+			"/images/Comware/comware2.webp",
+			"/images/Comware/comware3.webp"
 		]
 	},
 	{
@@ -44,16 +44,16 @@
 		"description": "Es un espacio en <strong class='dark:text-customWhite text-customBlack font-bold'>Notion</strong> y un repositorio en <strong class='dark:text-customWhite text-customBlack font-bold'>Github</strong> con mis notas detalladas y ejemplos prácticos para aprender <strong class='dark:text-customWhite text-customBlack font-bold'>Dart</strong> de manera efectiva. <br/> <br/> Encontrarás una amplia gama de temas cubiertos en este repositorio, cada sección está diseñada para proporcionar una comprensión profunda de los conceptos de Dart, con ejemplos de código claros y concisos. <br/> <br/> Además, he incluido enlaces directos a la documentación oficial de Dart, lo que te permitirá explorar aún más los temas que te interesen y obtener una visión más completa del lenguaje.",
 		"url": "https://sassy-detective-60f.notion.site/Dart-e1d4a04c176646ed9c40c1224df8620b",
 		"src": [
-			"/images/spaceT/space-tourism.webp",
-			"/images/spaceT/destination.webp",
-			"/images/spaceT/crew.webp"
+			"/images/Dart/dart1.webp",
+			"/images/Dart/dart2.webp",
+			"/images/Dart/dart3.webp"
 		]
 	},
 	{
 		"name": "Flutter App",
-		"description": "Aplicación de escritorio para organizar archivos en carpetas y sub-carpetas, por extensión y fecha de creación. Es muy útil para ordenar carpetas con muchos archivos. Este proyecto está desarrollado en <strong class='dark:text-customWhite text-customBlack font-bold'>Python</strong>.",
-		"url": "https://1drv.ms/u/s!ArTaDJ7bM_jWeIUMcUUr-z-r-CE?e=EZPMtl",
-		"src": ["/images/organizalo/organizalo.webp"],
+		"description": "Aplicación en proceso 🛠️, esta siendo desarrollada en <strong class='dark:text-customWhite text-customBlack font-bold'>Flutter</strong>.",
+		"url": "https://github.com/esarmiem",
+		"src": ["/images/Flutter/flutter.webp"],
 		"isSecondary": true
 	}
 ]
