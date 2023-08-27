@@ -23,7 +23,7 @@ export default function RecommendationsCarousel() {
 				type: "carousel",
 				perView: 3,
 				hoverpause: true,
-				autoplay: 10000,
+				autoplay: 5000,
 				gap: 6,
 				keyboard: true,
 				breakpoints: {
