@@ -9,14 +9,14 @@
 		},
 		{
 			"image": "/company/emtelco.webp",
-			"name": "Analista de soporte Nivel 2",
+			"name": "Analista de soporte I.T Nivel 2",
 			"date": "2mar. 2021 - dic. 2022 · 1 año 10 meses",
 			"title": "Emtelco",
 			"message": "Aptitudes: Híbrido de fibra coaxial · Voz sobre IP (VoIP) · Red de cobre · LAN-WAN · Redes de fibra óptica · Routers de Cisco."
 		},
 		{
 			"image": "/company/smso.webp",
-			"name": "Técnico de soporte",
+			"name": "Técnico de soporte I.T",
 			"date": "oct. 2019 - oct. 2020 · 1 año 1 mes",
 			"title": "Servicios especiales SMSO",
 			"message": "Aptitudes: Cámaras IP · Tecnología de Cisco · LAN-WAN."
@@ -37,10 +37,10 @@
 		},
 		{
 			"image": "/company/comsat.webp",
-			"name": "Técnico de telecomunicaciones",
+			"name": "Técnico de Sistemas Satelitales",
 			"date": "oct. 2014 - abr. 2015 · 7 meses",
 			"title": "Comsat",
-			"message": "Aptitudes: Sistemas satelitales."
+			"message": "Aptitudes: Sistemas satelitales · Red de cobre."
 		}
 	]
 }
