@@ -24,6 +24,11 @@
 			"url": "https://squoosh.app/",
 			"title": "Comprime imágenes sin perder calidad.",
 			"desc": "Lo utilizo mucho para comprimir imágenes, de hecho las imágenes de este sitio web las comprimí con esta aplicación. Es muy fácil de usar, sin registros ni publicidad y puedes comprimir imágenes en JPG, PNG, WebP, etc."
+		},
+		{
+			"url": "https://www.hyperui.dev/",
+			"title": "Componentes de tailwind open source.",
+			"desc": "HiperUI es una colección de componentes CSS gratuitos de Tailwind que puede utilizar en su próximo proyecto. Con una variedad de componentes, puede crear su próximo sitio web de marketing, panel de administración, tienda de comercio electrónico y mucho más."
 		}
 	],
 	"Canales de Youtube": [
@@ -56,6 +61,12 @@
 			"title": "Tips, trucos y consejos sobre buenas prácticas y desarrollo web.",
 			"desc": "LamaDev",
 			"lang": "inglés"
+		},
+		{
+			"url": "https://www.youtube.com/@DevTalles",
+			"title": "Cursos, podcast y tutoriales gratis de desarrollo de software.",
+			"desc": "Fernando Herrera (Dev Talles)",
+			"lang": "español"
 		}
 	],
 
@@ -84,6 +95,11 @@
 			"url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
 			"title": "Muestra los errores en línea.",
 			"desc": "Error Lens. Te permite ver los errores de tu código en tiempo real en la misma línea. Es muy útil y te ahorrará tiempo al momento de depurar tu código."
+		},
+		{
+			"url": "https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight",
+			"title": "Resalte los colores web en su editor.",
+			"desc": "Esta extensión aplica estilos a los colores CSS/web que se encuentran en su documento."
 		}
 	],
 	"Paquetes NPM": [
