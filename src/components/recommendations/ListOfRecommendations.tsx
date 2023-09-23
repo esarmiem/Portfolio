@@ -14,7 +14,7 @@ interface Recommendation {
 	image: string;
 }
 
-export default function RecommendationsCarousel() {
+export default function 	RecommendationsCarousel() {
 	const sliderRef = useRef(null);
 
 	useEffect(() => {
@@ -23,7 +23,7 @@ export default function RecommendationsCarousel() {
 				type: "carousel",
 				perView: 3,
 				hoverpause: true,
-				autoplay: 5000,
+				autoplay: 3000,
 				gap: 6,
 				keyboard: true,
 				breakpoints: {
@@ -67,15 +67,15 @@ export default function RecommendationsCarousel() {
 									</h4>
 								</header>
 
-								<section class="w-full mr-12 h-36 overflow-hidden hover:overflow-auto">
-									<p className="max-w-[80vw] sm:w-5/6 h-full text-base text-gray-500 whitespace-pre-wrap select-none">
-										{recommendation.message}
+								<section>
+									<p className="text-md font-medium text-gray-400 select-none">
+										{recommendation.date}
 									</p>
 								</section>
 
-								<footer>
-									<p className="text-xs font-medium text-gray-400 select-none">
-										{recommendation.date}
+								<footer class="w-full mr-12 h-36 overflow-hidden hover:overflow-auto">
+									<p className="max-w-[80vw] sm:w-5/6 h-full text-base text-gray-500 whitespace-pre-wrap select-none">
+										{recommendation.message}
 									</p>
 								</footer>
 							</li>
