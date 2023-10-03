@@ -1,6 +1,13 @@
 {
 	"recommendations": [
 		{
+			"image": "/company/experian.webp",
+			"name": "Analista de Soporte D.A",
+			"date": "sep. 2023 · Actualidad",
+			"title": "Experian",
+			"message": "Aptitudes: Docker · Jenkins · Bitbucket · Git · Linux."
+		},
+		{
 			"image": "/company/comware.webp",
 			"name": "Analista Vertical Nivel I",
 			"date": "ene. 2023 - sep. 2023 · 9 meses",
