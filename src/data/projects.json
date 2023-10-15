@@ -1,7 +1,7 @@
 [
 	{
 		"name": "esarmiem dev Blog",
-		"description": "¡Bienvenido a mi blog de noticias y recursos de programación! Este espacio está diseñado para mantenerte al tanto de las últimas novedades en el mundo de la programación y proporcionarte recursos valiosos para mejorar tus habilidades técnicas. <br/> <br/> Principales características: PWA Podrás instalarla en tu smartphone Android o iOS, filtrado de categorías y etiquetas, tendencia de diseño llamada neobrutalismo. <br/> <br/> El proyecto fue desarrollado con <strong class='dark:text-customWhite text-customBlack font-bold'>Astro, Tailwind CSS, and TypeScript</strong>.",
+		"description": "¡Bienvenido a mi blog de noticias y recursos de programación! Este espacio está diseñado para mantenerte al tanto de las últimas novedades en el mundo de la programación y proporcionarte recursos valiosos para mejorar tus habilidades técnicas. <br/> <br/> Principales características: PWA Podrás instalarla en tu smartphone Android o iOS, filtrado de categorías y etiquetas, tendencia de diseño llamada neobrutalismo. <br/> <br/> El proyecto fue desarrollado con <strong class='dark:text-customWhite text-customBlack font-bold'>Astro, Tailwind CSS, y TypeScript</strong>.",
 		"url": "https://esarmiemdev.vercel.app/",
 		"src": [
 			"/images/blog/blog1.webp",
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "Tesla clone",
-		"description": "Clon de la página principal de Tesla, la innovadora compañía líder en vehículos eléctricos y energía sostenible. <br/> <br/> Desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'>Astro, Tailwind y JavaScript</strong>. Casi logrando en la web la técnica de pixel perfect.",
+		"description": "Clon de la página principal de Tesla, la innovadora compañía líder en vehículos eléctricos y energía sostenible. <br/> <br/> Desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'>Astro, Tailwind CSS y JavaScript</strong>. Casi logrando en la web la técnica de pixel perfect.",
 		"url": "https://tesla-esarmiem.netlify.app/",
 		"src": [
 			"/images/Tesla/tesla1.webp",
@@ -40,13 +40,13 @@
 		]
 	},
 	{
-		"name": "Notas Dart",
-		"description": "Es un espacio en <strong class='dark:text-customWhite text-customBlack font-bold'>Notion</strong> y un repositorio en <strong class='dark:text-customWhite text-customBlack font-bold'>Github</strong> con mis notas detalladas y ejemplos prácticos para aprender <strong class='dark:text-customWhite text-customBlack font-bold'>Dart</strong> de manera efectiva. <br/> <br/> Encontrarás una amplia gama de temas cubiertos en este repositorio, cada sección está diseñada para proporcionar una comprensión profunda de los conceptos de Dart, con ejemplos de código claros y concisos. <br/> <br/> Además, he incluido enlaces directos a la documentación oficial de Dart, lo que te permitirá explorar aún más los temas que te interesen y obtener una visión más completa del lenguaje.",
-		"url": "https://sassy-detective-60f.notion.site/Dart-e1d4a04c176646ed9c40c1224df8620b",
+		"name": "Sveltkit & Firebase Auth",
+		"description": "Aplicación web desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'>SvelteKit, JavaScript, Tailwind CSS</strong> y <strong class='dark:text-customWhite text-customBlack font-bold'>Firebase</strong>.<br/> <br/> Uno de los puntos destacados de esta aplicación es la autenticación de usuarios mediante Google, implementada a través de Firebase. Esta característica se ha logrado utilizando la API y servicios proporcionados por Firebase, asegurando seguridad y un inicio de sesión de usuario fluido.",
+		"url": "https://svelkit-firebase-auth.vercel.app/",
 		"src": [
-			"/images/Dart/dart1.webp",
-			"/images/Dart/dart2.webp",
-			"/images/Dart/dart3.webp"
+			"/images/firebase/firebase1.webp",
+			"/images/firebase/firebase2.webp",
+			"/images/firebase/firebase3.webp"
 		]
 	},
 	{
