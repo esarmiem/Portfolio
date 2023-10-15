@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Linktree alternative",
-		"description": "Web alternativa a Linktree que te permite colocar todos tus enlaces de interés en un solo lugar, desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'> Svelte, Tailwind y Vite</strong> <br/> <br/> Ahora puedes compartir tus redes sociales, sitios web, repositorios de GitHub y otros enlaces importantes en una página personalizada. ",
-		"url": "https://linktree-esarmiem.vercel.app/",
+		"name": "esarmiem dev Blog",
+		"description": "¡Bienvenido a mi blog de noticias y recursos de programación! Este espacio está diseñado para mantenerte al tanto de las últimas novedades en el mundo de la programación y proporcionarte recursos valiosos para mejorar tus habilidades técnicas. <br/> <br/> Principales características: PWA Podrás instalarla en tu smartphone Android o iOS, filtrado de categorías y etiquetas, tendencia de diseño llamada neobrutalismo. <br/> <br/> El proyecto fue desarrollado con <strong class='dark:text-customWhite text-customBlack font-bold'>Astro, Tailwind CSS, and TypeScript</strong>.",
+		"url": "https://esarmiemdev.vercel.app/",
 		"src": [
-			"/images/Linktree/linktree2.webp",
-			"/images/Linktree/linktree1.webp",
-			"/images/Linktree/linktree3.webp"
+			"/images/blog/blog1.webp",
+			"/images/blog/blog2.webp",
+			"/images/blog/blog3.webp"
 		]
 	},
 	{
@@ -20,6 +20,16 @@
 		]
 	},
 	{
+		"name": "Linktree alternative",
+		"description": "Web alternativa a Linktree que te permite colocar todos tus enlaces de interés en un solo lugar, desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'> Svelte, Tailwind y Vite</strong> <br/> <br/> Ahora puedes compartir tus redes sociales, sitios web, repositorios de GitHub y otros enlaces importantes en una página personalizada. ",
+		"url": "https://linktree-esarmiem.vercel.app/",
+		"src": [
+			"/images/Linktree/linktree2.webp",
+			"/images/Linktree/linktree1.webp",
+			"/images/Linktree/linktree3.webp"
+		]
+	},
+	{
 		"name": "Tesla clone",
 		"description": "Clon de la página principal de Tesla, la innovadora compañía líder en vehículos eléctricos y energía sostenible. <br/> <br/> Desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'>Astro, Tailwind y JavaScript</strong>. Casi logrando en la web la técnica de pixel perfect.",
 		"url": "https://tesla-esarmiem.netlify.app/",
@@ -27,16 +37,6 @@
 			"/images/Tesla/tesla1.webp",
 			"/images/Tesla/tesla2.webp",
 			"/images/Tesla/tesla3.webp"
-		]
-	},
-	{
-		"name": "Gestion Comware",
-		"description": "Es un proyecto web integral diseñado para optimizar y agilizar procesos clave en entornos empresariales, consta de cuatro módulos esenciales que abordan diversas necesidades operativas. <br/> <br/>  El primer módulo permite la generación de códigos de verificación de números NIT de empresas, el segundo módulo facilita la creación de plantillas de diagnóstico para sistemas CRM. <br/> <br/> El tercer módulo ofrece un generador de plantillas para tiquetes técnicos y el cuarto módulo integra herramientas web esenciales, como validadores de nombres para direcciones MAC y verificación de direcciones IP en listas negras. <br/> <br/> El proyecto fue desarrollado con <strong class='dark:text-customWhite text-customBlack font-bold'>HTML/CSS y Javascript.</strong>.",
-		"url": "https://x-men-comware.netlify.app/",
-		"src": [
-			"/images/Comware/comware1.webp",
-			"/images/Comware/comware2.webp",
-			"/images/Comware/comware3.webp"
 		]
 	},
 	{
