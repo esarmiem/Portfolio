@@ -2,7 +2,7 @@
 	{
 		"name": "esarmiem dev Blog",
 		"description": "¡Bienvenido a mi blog de noticias y recursos de programación! Este espacio está diseñado para mantenerte al tanto de las últimas novedades en el mundo de la programación y proporcionarte recursos valiosos para mejorar tus habilidades técnicas. <br/> <br/> Principales características: PWA Podrás instalarla en tu smartphone Android o iOS, filtrado de categorías y etiquetas, tendencia de diseño llamada neobrutalismo. <br/> <br/> El proyecto fue desarrollado con <strong class='dark:text-customWhite text-customBlack font-bold'>Astro, Tailwind CSS, y TypeScript</strong>.",
-		"url": "https://esarmiemdev.vercel.app/",
+		"url": "https://esarmiemdev.blog/",
 		"src": [
 			"/images/blog/blog1.webp",
 			"/images/blog/blog2.webp",
