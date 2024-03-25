@@ -22,7 +22,7 @@
 	{
 		"name": "Linktree alternative",
 		"description": "Web alternativa a Linktree que te permite colocar todos tus enlaces de interés en un solo lugar, desarrollada con <strong class='dark:text-customWhite text-customBlack font-bold'> Svelte, Tailwind y Vite</strong> <br/> <br/> Ahora puedes compartir tus redes sociales, sitios web, repositorios de GitHub y otros enlaces importantes en una página personalizada. ",
-		"url": "https://linktree-esarmiem.vercel.app/",
+		"url": "https://links-esarmiem.vercel.app/",
 		"src": [
 			"/images/Linktree/linktree2.webp",
 			"/images/Linktree/linktree1.webp",
